@@ -13,16 +13,20 @@
 
 .ct-0 {
     background: #ff000080;
+    background: linear-gradient(135deg, #ff000040 20%, #ff000080)
 }
 
 .ct-1 {
     background: #ff800080;
+    background: linear-gradient(135deg, #ff800050 20%, #ff800080)
 }
 
 .ct-2 {
     background: #00800080;
+    background: linear-gradient(135deg, #00800040 20%, #00800080)
 }
 
 .ct-3 {
     background: #00008080;
+    background: linear-gradient(135deg, #00008048 20%, #00008080)
 }
