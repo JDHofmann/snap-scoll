@@ -8,5 +8,21 @@
     height: 40vw;
     display: block;
     margin: 5vh auto;
-    border: 2px solid;
+    border-radius: 10px;
+}
+
+.ct-0 {
+    background: #ff000080;
+}
+
+.ct-1 {
+    background: #ff800080;
+}
+
+.ct-2 {
+    background: #00800080;
+}
+
+.ct-3 {
+    background: #00008080;
 }
