@@ -13,20 +13,27 @@
 
 .ct-0 {
     background: #ff000080;
-    background: linear-gradient(135deg, #ff000040 20%, #ff000080)
+    background: linear-gradient(135deg, #ff000040 20%, #ff000080);
+    box-shadow: inset 0 0 25px 9px #ff000050;
 }
 
 .ct-1 {
     background: #ff800080;
-    background: linear-gradient(135deg, #ff800050 20%, #ff800080)
+    background: linear-gradient(135deg, #ff800050 20%, #ff800080);
+    box-shadow: inset 0 0 25px 9px #ff800060;
+
 }
 
 .ct-2 {
     background: #00800080;
-    background: linear-gradient(135deg, #00800040 20%, #00800080)
+    background: linear-gradient(135deg, #00800040 20%, #00800080);
+    box-shadow: inset 0 0 25px 9px #00800050;
+
 }
 
 .ct-3 {
     background: #00008080;
-    background: linear-gradient(135deg, #00008048 20%, #00008080)
+    background: linear-gradient(135deg, #00008048 20%, #00008080);
+    box-shadow: inset 0 0 25px 9px #00008050;
+
 }
