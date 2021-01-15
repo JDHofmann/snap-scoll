@@ -4,7 +4,7 @@
 }
 
 body {
-    /* background: #202020; */
+    background: #202020;
 }
 
 header {
@@ -41,10 +41,14 @@ header {
 .ct-2 {
     background: linear-gradient(135deg, #00800040 20%, #00800080);
     box-shadow: inset 0 0 25px 9px #00800050;
+    background: linear-gradient(135deg, #00a00060 20%, #00a00090);
+    box-shadow: inset 0 0 25px 9px #00a00070;
 }
 
 .ct-3 {
     background: linear-gradient(135deg, #00008048 20%, #00008080);
     box-shadow: inset 0 0 25px 9px #00008050;
+    background: linear-gradient(135deg, #0000ff60 20%, #0000ffa0);
+    box-shadow: inset 0 0 25px 9px #0000ffa0;
 }
 
